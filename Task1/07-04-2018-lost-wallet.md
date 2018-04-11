@@ -19,4 +19,5 @@ I will take care of all the expenses so please send me your bank account details
 I am looking forward to hearing from you and send my best regards to your family.
 
 Best regards,
+
 Kerry
