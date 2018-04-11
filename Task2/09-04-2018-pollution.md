@@ -16,27 +16,32 @@ if government:
 
 - why more? -人口增长，需求增加，造成更多的垃圾
 case 1:
+
 The global population has reached a staggering seven billion recently. The waste is a by-product of this phenomenon. This number is expected to balloon to nine billion by 2050 if the current trend goes on. The amount of trash produced is likewise expected to rise. Manufacturing industries also contribute to the total of accumulated waste. While market demands go higher, the number of factories build also increases to satisfy this demands
 
 or Case 2:
+
 To begin with, the rapid growth of garbage is directly linked to the overwhelming number of population.
 To elucidate, as the number of people grows the number of products they consume also rises. These, in turn, inflates the waste further. Moreover, Manufacturing industries also contribute to the total of accumulated waste. While market demands go higher, the number of factories build also increases to satisfy this demands.
 
 - Why should we help?
+- How could help?
 
 - If government could help:
+
 The government could raise this awareness in the general public through advertisement, newspapers and radio. So people could be aware of its harmful affect toward our environment.
 Additionally, to control the industrial waste, the government can increase the tax on them, and government can use these taxes to create a fund that helps implement pollution control measures such as effluent treatment plants. For example, the government of Singapore has imposed heavy taxes on all manufacturing facilities and used these funds to clean rivers, install machines to absorb harmful gases in Singapore’s air. Thus a heavy tax on companies has played an important role in making Singapore a clean place to live.
 
-- if personal could help:
-It is certainly true that the individuals can actually take up good habits which could prove useful in dealing with the rubbish problems. For instance, we could seperate all garbage into different bins. It is essential for enabling the recovery of useful materials, minimising the amount of material sent to landfill and allowing recyclable materials to find a new incarnation. As a consequence, the good behaviour of us could lead to a clean, waste-less environment to everyone.
+- if personal could help: Why?
+
+As a citizen, living in the city, we understand that we will ultimately face the problem if the garbage is not properly take care of. And we could take up good habits which could prove useful in dealing with the rubbish problems. For instance, we could seperate all garbage into different bins. It is essential for enabling the recovery of useful materials, minimising the amount of material sent to landfill and allowing recyclable materials to find a new incarnation. As a consequence, the good behaviour of us could lead to a clean, waste-less environment to everyone.
 
 or:
+
   We can always bring along recycle bags which us so that we can cut down the usage of the plastic bags.
 
 
 - In conclusion:
-...- 环境问题，人人有责
 
 In conclusion, I would like to say that the rubbish problems should be addressed on large scale. Everyone have to contribute in order to mitigate the harmful effects on the world.
 Even a little effort by an individual can make a huge difference.
@@ -75,12 +80,16 @@ Reference:
 - https://www.ielts-mentor.com/writing-sample/writing-task-2/265-ielts-writing-task-2-sample-39-nowadays-we-are-producing-more-and-more-rubbish
 - https://www.ielts-mentor.com/writing-sample/writing-task-2/1733-ielts-writing-task-2-sample-673-environmental-problems-are-too-big-for-individuals-to-be-solved
 
+- https://waste-management-world.com/a/waste-sorting-a-look-at-the-separation-and-sorting-techniques-in-todayrsquos-european-market
+
+- http://www.environment.gov.sk.ca/reducingwaste
+
 - https://www.ielts-mentor.com/writing-sample/writing-task-2/1192-ielts-writing-task-2-sample-273-waste-disposal-problems-are-increasing-specially-in-urban-areas
 
 - http://ielts-simon.com/ielts-help-and-english-pr/2017/11/ielts-writing-task-2-recycling-essay.html
 
 - https://www.ielts-mentor.com/writing-sample/writing-task-2/1192-ielts-writing-task-2-sample-273-waste-disposal-problems-are-increasing-specially-in-urban-areas
 
-- https://waste-management-world.com/a/waste-sorting-a-look-at-the-separation-and-sorting-techniques-in-todayrsquos-european-market
+
 
 - https://www.ielts-mentor.com/writing-sample/writing-task-2/2350-ielts-writing-task-2-sample-1082-environmental-problems-affect-all-the-people-in-the-world
