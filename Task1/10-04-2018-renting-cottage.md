@@ -1,4 +1,4 @@
-###You are rented an apartment for a holiday last year and you are happy with it although there is a problem with it. You want to rent it again this year.
+### You are rented an apartment for a holiday last year and you are happy with it although there is a problem with it. You want to rent it again this year.
 
 Write a letter to the owner. In your letter:
  - why you are happy with it

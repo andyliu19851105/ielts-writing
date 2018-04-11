@@ -1,4 +1,4 @@
-## Last month you had an overseas holiday with some friends where you stayed at their house. They have just sent you some holiday photos.
+### Last month you had an overseas holiday with some friends where you stayed at their house. They have just sent you some holiday photos.
 
 Write a letter to your friends. In your letter:
 
