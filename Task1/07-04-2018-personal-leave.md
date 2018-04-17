@@ -11,9 +11,7 @@ I am writing this letter to advise that I will be away from 10th April this week
 
 As you know, I have already been our company for two year, but less back to my home country. My wife has been keen to have a long time travel in China for long time, which I had promised her. I am quite sure that I could relax myself and enjoy the journey during this period.
 
-I have already communicated with my colleague Jason who is currently working with me in the “SEA” project.
-He will able to complete the work for this project, since he has full context about this project.
-I will also make certain that all of my pending work will be handled in advance.
+I have already communicated with my colleague Jason who is currently working with me in the “SEA” project. He will able to complete the work for this project, since he has full context about this project. I will also make certain that all of my pending work will be handled in advance.
 
 Even I was in China, I still will be reachable anytime at my email or phone, in case of any urgency.
 

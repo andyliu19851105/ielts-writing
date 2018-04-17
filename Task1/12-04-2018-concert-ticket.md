@@ -5,6 +5,7 @@ Write a letter to your friend. In your letter:
 - explain why you are unable to go
 - explain how your friend can receive your ticket
 
+
 Hi John,
 
 I hope this letter finds you well. I'm writing this letter to offer you a concert ticket which I won't be able to use.
