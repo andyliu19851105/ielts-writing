@@ -14,7 +14,7 @@ Unfortunately, I lost my certificate when I went back to home yesterday. I could
 
 Actually, for the certificate, there is a registration ID on it. I need use it to register as a valid student in the AWS practice course. If I fail to register next week, I may not be able to attend his training, thus missing out on this rare opportunity.
 
-Therefor, would you please re-generate a new digital certificate for me. And please send the new one to my working email: kerry.Johne@myob.com. I think it should not be hard on your side, but that's means a lot for me.
+Therefore, would you please re-generate a new digital certificate for me. And please send the new one to my working email: kerry.Johne@myob.com. I think it should not be hard on your side, but that's means a lot for me.
 
 I am looking forward to hearing from you and if you have any questions, please do not hesitate to contact me.
 

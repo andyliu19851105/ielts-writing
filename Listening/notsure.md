@@ -1,0 +1,13 @@
+- effective
+- efficient
+- damage
+- confusion
+- experience
+- license
+- injure
+- smash [smæʃ] vt. 粉碎；使破产；溃裂
+- financial
+- finance
+- council
+- analysis
+- assessment [ə'sesmənt] n. 评定；估价
