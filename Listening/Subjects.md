@@ -1,0 +1,17 @@
+- science
+- politics
+- history
+- biology
+- architecture
+- statistics
+- geography
+- logic
+- physics
+- literature
+- business
+- management
+- agriculture
+- visual arts
+- chemistry
+- economics
+- agriculture

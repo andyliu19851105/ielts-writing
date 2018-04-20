@@ -1,0 +1,39 @@
+- yoga
+- vegetable
+- vegetarian
+- vitamin
+- pasta
+- pizza
+- cheese n. [食品] 奶酪；干酪；要人
+- meal
+- balanced diet
+- nuts
+- liver n. 肝脏；生活者，居民
+- nursing
+- nursing care
+- nursery
+- rice [raɪs] n. 稻；米饭
+- beans
+- zinc
+- meat
+- seafood
+- blackberry
+- egg yolk
+- treatment n. 治疗，疗法；处理；对待
+- remedy ['remɪdɪ] n. 补救；治疗；赔偿
+- regular exercise
+- citrus ['sɪtrəs] n. [园艺] 柑橘属果树；柑橘类的植物 adj. 柑橘属植物的 fruits
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-

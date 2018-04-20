@@ -1,0 +1,56 @@
+- passport
+- photos & photo
+- state
+- government
+- entrance
+- individuals
+- variety
+- private
+- guarantee
+- dialogue ['daɪəlɒg] n. 对话；意见交换
+- commerce
+- commercial
+- decision
+- property
+- prototype
+- attitude
+- daily
+- daily routine [ruː'tiːn] n. [计] 程序；日常工作；例行公事
+- diary ['daɪərɪ] n. 日志，日记；日记簿
+- license
+- traffic jam | congestion
+- gender
+- creativity
+- original
+- farewell  [feə'wel] n. 告别，辞别；再见；再会
+- fireworks  ['faɪəwɜ:ks] n. 烟火（firework的复数形式）；激烈争论
+- welfare n. 福利；幸福；福利事业；安宁
+- profile n. 侧面；轮廓；外形；剖面；简况 vt. 描…的轮廓；扼要描述
+- umbrella
+
+-------------------
+- sewer ['suːə; 'sjuːə] n. 下水道；阴沟；裁缝师
+- carriage ['kærɪdʒ] n. 运输；运费；四轮马车；举止；客车厢
+- narrative ['nærətɪv] n. 叙述；故事；讲述 adj. 叙事的，叙述的；叙事体的
+- circuit ['sɜːkɪt] n. [电子] 电路，回路；巡回；一圈；环道
+- sector ['sektə] n. 部门；扇形，扇区；象限仪；函数尺
+- inhabitant [ɪn'hæbɪt(ə)nt] n. 居民；居住者
+- indigenous [ɪn'dɪdʒɪnəs] adj. 本土的；土著的；国产的；固有的
+- demonstration
+- strike
+- satellite
+- ultrasound ['ʌltrəsaʊnd] n. 超声；超音波
+- pedestrian [pɪˈdestrɪən] n. 行人；步行者
+- procedures n. 程序；规程（procedure的复数）
+- driving license
+- literary ['lɪt(ə)(rə)rɪ] adj. 文学的；书面的；精通文学的
+- democracy  [dɪ'mɒkrəsɪ] n. 民主，民主主义；民主政治
+- republicans n. 共和党，共和党员
+- lunar calendar
+- conservation [kɒnsə'veɪʃ(ə)n] n. 保存，保持；保护
+- life expectancy [ɪk'spekt(ə)nsɪ; ek-] n. 期望，期待
+- magnet [ˈmæɡnɪt] n. 磁铁；[电磁] 磁体；磁石
+- dialect ['daɪəlekt] n. 方言，土话；同源语；行话；个人用语特征 adj. 方言的
+- illiteracy  [ɪ'lɪt(ə)rəsɪ] n. 文盲；无知
+- proficiency [prə'fɪʃ(ə)nsɪ] n. 精通，熟练
+- encyclopaedia [ɪn,saɪklə'pidɪə]n. 百科全书

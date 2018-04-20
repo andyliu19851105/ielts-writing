@@ -1,0 +1,31 @@
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturday
+- Sunday
+- weekdays
+- weekend
+
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+
+- North
+- South
+- East
+- West
+
+- Northeast
+- Southwest
+- Southeast
