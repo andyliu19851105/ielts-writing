@@ -11,3 +11,7 @@
 - council
 - analysis
 - assessment [ə'sesmənt] n. 评定；估价
+- facilities
+- safety
+- convenience
+- convenient

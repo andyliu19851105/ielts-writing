@@ -14,6 +14,7 @@ Keywords:
 - various solutions
 - corporates
 - awareness
+- regulation n. 管理；规则；校准 adj. 规定的；平常的
 - impose vt. 强加；征税；以…欺骗 vi. 利用；欺骗；施加影响
 - effluent treatment plants
 - consumption

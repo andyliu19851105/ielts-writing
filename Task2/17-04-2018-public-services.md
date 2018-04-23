@@ -9,6 +9,11 @@ On the other hand, the arts should also be protected by the government as public
 In conclusion, I can confidently state that government should invest more in public services. However, I do not believe that financial funding for the art is a total wastage as this too provides important benefits.
 
 
+- treasure n. 财富，财产；财宝；珍品
+- deserve vi. 应受，应得 vt. 应受，应得
+
+
+
 Reference:
 - https://www.testbig.com/ielts-writing-task-ii-ielts-academic-essays/government-should-focus-spending-only-public-services
 
