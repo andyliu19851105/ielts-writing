@@ -13,7 +13,8 @@
 - primates [prai'meiti:z] n. 灵长类
 - rodents ['rəudənt n. 啮齿动物，啮齿类
 - fish
-- genus
+- genus ['dʒiːnəs; 'dʒenəs] n. 类，种；[生物] 属
+- genius ['dʒiːnɪəs] n. 天才，天赋；精神
 - species
 - livestock ['laɪvstɒk] n. 牲畜；家畜
 - creature ['kriːtʃə] n. 动物，生物；人；创造物

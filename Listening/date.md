@@ -26,6 +26,6 @@
 - East
 - West
 
-- Northeast
-- Southwest
-- Southeast
+- NorthEast
+- SouthWest
+- SouthEast
