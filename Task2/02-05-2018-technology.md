@@ -6,4 +6,10 @@ It is clear that technology has changed the way we communicate in several respec
 
 It would argue that these innovations have mostly improved personal relationships. It is easy to understand that if modern communication dominates our life, we may encounter several difficulties when we interact with people in real life. Such as Children tend to feel shy to talk with strangers; adults may lack the social manners in communication or misunderstand others' message. These problem would impact our social skills, which preventing us from building a strong bond with people or society.
 
+In conclusion, the technology has changed the way in which people interact with each other. There are convincing arguments both for and against this new type of relationship, however, I think that this has become a positive development.
+
+Reference:
+- https://www.testbig.com/ielts-writing-task-ii-ielts-academic-essays/task-2-nowadays-way-many-people-interact-each-other-has
+
+
 My conclusion is therefore that new forms technological communication have in fact largely improved human interaction because emails, texting and social networks enable us to maintain friendships which might otherwise be lost.

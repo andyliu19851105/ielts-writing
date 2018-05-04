@@ -17,7 +17,12 @@ Primarily, There are some courses that required persons to be prepared more thro
 
 On the other hand, theory itself is also important because it is the base of practical knowledge. There are indeed, such disciplines that required more theoretical subjects, so that the young will prepare in a better way for their future workplace. For instance, physiotherapy course is mostly based on theoretical hours, as the students need to learn about human body. My uncle, who is a physiotherapist has told me that although it could seem stressful, all the time spent on theory helps a lot to understand regard this job itself. Therefore, for few jobs, learning from books and teachers, it result more suitable.
 
+p3
+
 To conclude, as an overall judgement, It could be said that both the approaches are useful in their own manner. However, it depends on the course to which method give more importance.
+
+- psychology 心里学
+- psychologist 心里学家
 
 
 ### Some people think that universities should provide graduates with the knowledge and skills needed in the workplace. Others think that the true function of a university should be to give access to knowledge for its own sake, regardless of whether the course is useful to an employer. What's in your opinion, should be the main function of a university?

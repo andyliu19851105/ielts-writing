@@ -1,4 +1,4 @@
-### Some people think that strict punishments for driving offences are the key to reducing traffic accidents. Others, however, believe that other measures would be more effective in improving road safety.
+### Some people think that strict punishments for driving offences are the key to reducing traffic accidents. Others, however, believe that other measures would be more effective in improving road safety. Please discuss both view and give your opinion.
 
 A group of people believe that in order to increase the safety for the driving on roads, governments should make stricter regulations for any indiscipline in driving attitudes. But another group thinks that authorities should consider other effective solutions for it. The following essay will discuss both views in details, but in my personal opinion, I do believe that the combination of both ideas would ensure a better road safety.
 

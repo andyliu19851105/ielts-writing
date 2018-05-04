@@ -2,11 +2,11 @@
 
 Nowadays, technology plays an important role in our daily life, especially in education. Indeed, in some institutions traditional forms of education have been changed by new technology. As a result, the lecture is no longer the main method of delivery. While there are a variety of benefits to this new approach, there are also significant drawbacks.
 
-It is no doubt that the greatest bonus of the new technology is the flexibility it offers. Firstly, it is now no longer essential for students to be present in the classroom for their course. This means that part-time courses for adults who are in employment and distance learning courses are now much more practical. Additionally, there are some website provide online lessons enable students to study anywhere and anytime. For example, www.udmy.com is the most famous online course provider. It have laptop and mobile two versions, which help us access easily.
+It is no doubt that the greatest bonus of the new technology is the flexibility it offers. Firstly, it is now no longer essential for students to be present in the classroom for their course. This means that part-time courses for employment adults and distance learning courses are now much more practical. Additionally, there are some website provide online lessons enable students to study anywhere and anytime. For example, www.udmy.com is the most famous online course provider. It have laptop and mobile two versions, which help us access easily.
 
 Different from those new technologies, lecture, being one of the traditional ways of educating, has its advantages too. Large numbers of students sitting in the same classroom provides good opportunities for the teacher and students to communicate. It is beneficial to improving students' interpersonal skills. So that they could get along well with people from various backgrounds, which contributing to strong bond with friends and family. This would result in a strong sense of belonging and connection.
 
-In conclusion, there are major benefits to the introduction of technology into education, it enables modern ways for us to acquire knowledge, such as distance learning courses. However, the traditional approach could also provide more human interactions.
+In conclusion, there are major benefits to the introduction of technology into education, it enables modern ways for us to acquire knowledge, such as distance learning courses. However, the traditional approach could also provide more human interactions.Thus I believe that both approaches have their own positive sides.
 ---------
 
 However, such new technology can never take the place of lectures because it lacks interaction.
@@ -22,6 +22,7 @@ The digital devices also prevent students from spending too much time on searchi
 - subjects such as music, art and philosophy could potentially be view as "unimportant subjects". However, many career from the University of Melbourne has pointed out the need for mass spectre of knowledge and skills in order to adapt the changes societies. A career in Artificial Intelligence could acquire knowledge in psychology and organisational behaviour.
 
 ### Keywords:
+- bond n. 纽带; 债券；结合；约定；粘合剂
 - philosophy n. 哲学
 - manner n. 方式；习惯；种类；规矩；风俗
 - psychology n. 心里学

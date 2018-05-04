@@ -6,6 +6,8 @@ Media has play a vital role in delivering message to people in the mode of magaz
 
 On the other hand, media could also bring a bad influence to the viewer especially to young children. Many television programme nowadays had broadcast channel that project more of social problem such divorce among celebrity, criminal, pornography etc. This type of programme could bring a negative impact on children as children tend to act upon on what they saw. Additionally, media which include advertisement that uses actresses and actor, could influence children to follow and buy certain product although it is not necessary to buy as they want to look similar like their idol.
 
+page 13
+
 In conclusion there are convincing arguments both for and against positive and negative development a news media could bring. Some people believe that media dominantly bring negative impact to the society. In my opinion, media could bring positive development if it is being use wisely and appropriately.
 
 - intention n. 意图；目的；意向；愈合
