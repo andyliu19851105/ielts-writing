@@ -23,14 +23,3 @@ To conclude, as an overall judgement, It could be said that both the approaches 
 
 - psychology 心里学
 - psychologist 心里学家
-
-
-### Some people think that universities should provide graduates with the knowledge and skills needed in the workplace. Others think that the true function of a university should be to give access to knowledge for its own sake, regardless of whether the course is useful to an employer. What's in your opinion, should be the main function of a university?
-
-Whether a university’s role should be to prepare graduates for specific jobs or simply to educate without a particular vocation in mind is a debatable issue. This essay believes that universities fulfill both purposes. The essay will first discuss the function of vocational courses, followed by a discussion of more traditional tertiary education.
-
-Some students have a very specific job in mind when they enroll at university. Medicine, dentistry and accountancy have clear career paths and they allow people to focus on and then undertake a certain profession upon graduation. This suits those who have decided on a career and it avoids them wasting time studying a more general subject like English. For instance, in the United States, you must complete four years of higher education before you can study law and many feel that these four years are a waste of time, that would have been better used focusing on their chosen discipline.
-
-However, this is not suitable for everyone and many people have no idea what job they would like to do when they are 18. For these young people, it is better to do a non-vocational course, such as philosophy and simply add to their intellect without a career goal in mind. If they were forced to study a more practical subject, they are more likely to quit or become disillusioned because they don’t see the point of their chosen subject. For example, The Times recently reported that only 50% of law graduates actually want to become lawyers at the end of their studies.
-
-In conclusion, the function of college is to both prepare students for the workforce and provide knowledge and which one a person chooses should depend on their preference at the time.
